@@ -40,7 +40,7 @@ Data Loading and Exploration:
 * You’ve calculated the accuracy of the model using metrics.accuracy_score.
 
 ## Program:
-```
+```python
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: VENKATANATHAN P R
