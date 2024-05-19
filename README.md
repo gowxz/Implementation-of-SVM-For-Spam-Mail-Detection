@@ -41,8 +41,8 @@ Data Loading and Exploration:
 ```python
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: KAVYA T
-RegisterNumber:  2305003004
+Developed by: GOWTHAM S
+RegisterNumber:  2305002008
 */
 import chardet
 file='spam.csv'
